@@ -1,0 +1,4 @@
+###### BINARIES ######
+
+# hwcomposer
+lib/hw/hwcomposer.santos103g.so:vendor/lib/hw/hwcomposer.clovertrail.so
