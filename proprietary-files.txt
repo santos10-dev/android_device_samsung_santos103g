@@ -2,3 +2,8 @@
 
 # hwcomposer
 lib/hw/hwcomposer.santos103g.so:vendor/lib/hw/hwcomposer.clovertrail.so
+
+# GPS
+bin/gpsd:vendor/bin/gpsd
+lib/hw/gps.default.so:vendor/lib/hw/gps.santos10.so
+lib/libwrappergps.so:vendor/lib/libwrappergps.so
