@@ -10,3 +10,7 @@ lib/hw/camera.santos103g.so:vendor/lib/hw/camera.vendor.santos10.so
 bin/gpsd:vendor/bin/gpsd
 lib/hw/gps.default.so:vendor/lib/hw/gps.santos10.so
 lib/libwrappergps.so:vendor/lib/libwrappergps.so
+
+# RIL
+sbin/cbd:vendor/bin/cbd
+system/lib/libsec-ril.so:vendor/lib/libsec-ril.so
