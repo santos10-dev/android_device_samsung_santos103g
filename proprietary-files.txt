@@ -13,4 +13,4 @@ lib/libwrappergps.so:vendor/lib/libwrappergps.so
 
 # RIL
 sbin/cbd:vendor/bin/cbd
-system/lib/libsec-ril.so:vendor/lib/libsec-ril.so
+lib/libsec-ril.so:vendor/lib/libsec-ril.so
