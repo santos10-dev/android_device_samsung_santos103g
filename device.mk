@@ -19,4 +19,4 @@ $(call inherit-product, device/samsung/santos10-common/device-common-gsm.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/samsung/santos10-common/overlay-gsm
 
-$(call inherit-product, vendor/samsung/santos103g/device-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/santos103g/santos103g-vendor.mk)
