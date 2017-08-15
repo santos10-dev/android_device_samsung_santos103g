@@ -12,5 +12,5 @@ lib/hw/gps.default.so:vendor/lib/hw/gps.santos10.so
 lib/libwrappergps.so:vendor/lib/libwrappergps.so
 
 # RIL
-sbin/cbd:vendor/bin/cbd|fc025d4a81752e3b9c46956804ff5ef10af6edd7
+sbin/cbd:vendor/bin/cbd|ee5f55e3004b53a2ae3469ef94ae98c6091e62f2
 lib/libsec-ril.so:vendor/lib/libsec-ril.so
